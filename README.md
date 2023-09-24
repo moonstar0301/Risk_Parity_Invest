@@ -7,6 +7,7 @@ Risk Parity(Risk Parity 전략 및 자동매매 알고리즘 구현)
 12기 최문석
 
 - Main.py파일은 64bit 가상환경에서, 자동매매.py는 32bit 가상환경에서 실행시켜야합니다.
+- 기술적 한계로 아직 AWS서버에는 못올린 상태입니다.
 ![슬라이드1](https://github.com/moonstar0301/Risk_Parity_Invest/assets/112082163/944e3e20-a5bc-462b-b2be-db3de6158d7c)
 ![슬라이드2](https://github.com/moonstar0301/Risk_Parity_Invest/assets/112082163/f1465450-3c2f-4f35-a063-51dda8ac6c7e)
 ![슬라이드3](https://github.com/moonstar0301/Risk_Parity_Invest/assets/112082163/5f5a79ec-e043-485c-ab5b-01811a3b471c)
